@@ -1,0 +1,3 @@
+2022-07-15 18:27:15,147 INFO - Successfully read file : 'https://ddbj.nig.ac.jp/public/mirror_database/1000genomes/20131219.populations.tsv' and it contains '29 Row(s)' and '9 Column(s)
+2022-07-15 18:27:15,152 INFO - Average of 'Phase1 Samples' : 42
+2022-07-15 18:27:15,152 INFO - Total of 'Final Phase Samples' : 2535
