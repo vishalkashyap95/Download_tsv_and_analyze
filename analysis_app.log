@@ -1,3 +1,40 @@
-2022-07-15 18:27:15,147 INFO - Successfully read file : 'https://ddbj.nig.ac.jp/public/mirror_database/1000genomes/20131219.populations.tsv' and it contains '29 Row(s)' and '9 Column(s)
-2022-07-15 18:27:15,152 INFO - Average of 'Phase1 Samples' : 42
-2022-07-15 18:27:15,152 INFO - Total of 'Final Phase Samples' : 2535
+2022-07-19 18:38:38,653 INFO - Successfully read file : 'https://ddbj.nig.ac.jp/public/mirror_database/1000genomes/20131219.populations.tsv' and it contains '29 Row(s)' and '9 Column(s)
+2022-07-19 18:38:38,653 INFO - Question 1 - Average of 'Phase1 Samples' : 42
+2022-07-19 18:38:38,653 INFO - Question 2 - Total of 'Final Phase Samples' : 2535
+2022-07-19 18:38:38,653 INFO - Question 3 - Top 5 Most repeated countries : 
+china           3
+the uk          2
+nigeria         2
+sierra leone    1
+peru            1
+Name: Countries, dtype: int64
+2022-07-19 18:39:28,162 INFO - Successfully read file : 'https://ddbj.nig.ac.jp/public/mirror_database/1000genomes/20131219.populations.tsv' and it contains '29 Row(s)' and '9 Column(s)
+2022-07-19 18:39:28,162 INFO - Question 1 - Average of 'Phase1 Samples' : 42
+2022-07-19 18:39:28,162 INFO - Question 2 - Total of 'Final Phase Samples' : 2535
+2022-07-19 18:39:28,168 INFO - Question 3 - Top 5 Most repeated countries : 
+china           3
+the uk          2
+nigeria         2
+sierra leone    1
+peru            1
+Name: Countries, dtype: int64
+2022-07-19 18:39:36,874 INFO - Successfully read file : 'https://ddbj.nig.ac.jp/public/mirror_database/1000genomes/20131219.populations.tsv' and it contains '29 Row(s)' and '9 Column(s)
+2022-07-19 18:39:36,874 INFO - Question 1 - Average of 'Phase1 Samples' : 42
+2022-07-19 18:39:36,874 INFO - Question 2 - Total of 'Final Phase Samples' : 2535
+2022-07-19 18:39:36,890 INFO - Question 3 - Top 5 Most repeated countries : 
+china           3
+the uk          2
+nigeria         2
+sierra leone    1
+peru            1
+Name: Countries, dtype: int64
+2022-07-19 18:40:05,752 INFO - Successfully read file : 'https://ddbj.nig.ac.jp/public/mirror_database/1000genomes/20131219.populations.tsv' and it contains '29 Row(s)' and '9 Column(s)
+2022-07-19 18:40:05,752 INFO - Question 1 - Average of 'Phase1 Samples' : 42
+2022-07-19 18:40:05,752 INFO - Question 2 - Total of 'Final Phase Samples' : 2535
+2022-07-19 18:40:05,752 INFO - Question 3 - Top 5 Most repeated countries : 
+china           3
+the uk          2
+nigeria         2
+sierra leone    1
+peru            1
+Name: Countries, dtype: int64
